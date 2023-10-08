@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(182, 75, 75);
+}
+.exchange-title {
+    color: white;
+    font-size: 36px;
+    text-align: center;
+}
+.exchange-list {
+    list-style: none;
+    text-align: center;
+}
+.exchange-item {
+    width: 250px;
+    border: 1px solid;
+    background-color: white;
+}
+.exchange-item-subtitle {
+    font-size: 30px;
+}
+.exchange-item-paragraph {
+    font-size: 14px;
+}
+.exchange-item-list {
+    list-style: none;
+}
+.exchange-item-list-item {
+    font-size: 16px;
+    color: rgb(202, 87, 87);
+}
